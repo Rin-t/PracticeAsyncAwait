@@ -16,6 +16,7 @@
 		247F783229248D1B00839C2D /* practiceAsyncAwaitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247F783129248D1B00839C2D /* practiceAsyncAwaitTests.swift */; };
 		247F783C29248D1B00839C2D /* practiceAsyncAwaitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247F783B29248D1B00839C2D /* practiceAsyncAwaitUITests.swift */; };
 		247F783E29248D1B00839C2D /* practiceAsyncAwaitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247F783D29248D1B00839C2D /* practiceAsyncAwaitUITestsLaunchTests.swift */; };
+		247F784B2924918500839C2D /* PokemonApiClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247F784A2924918500839C2D /* PokemonApiClient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		247F783729248D1B00839C2D /* practiceAsyncAwaitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = practiceAsyncAwaitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		247F783B29248D1B00839C2D /* practiceAsyncAwaitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practiceAsyncAwaitUITests.swift; sourceTree = "<group>"; };
 		247F783D29248D1B00839C2D /* practiceAsyncAwaitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = practiceAsyncAwaitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		247F784A2924918500839C2D /* PokemonApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonApiClient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				247F781A29248D1900839C2D /* AppDelegate.swift */,
 				247F781C29248D1900839C2D /* SceneDelegate.swift */,
 				247F781E29248D1900839C2D /* ViewController.swift */,
+				247F784A2924918500839C2D /* PokemonApiClient.swift */,
 				247F782029248D1900839C2D /* Main.storyboard */,
 				247F782329248D1B00839C2D /* Assets.xcassets */,
 				247F782529248D1B00839C2D /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				247F781F29248D1900839C2D /* ViewController.swift in Sources */,
 				247F781B29248D1900839C2D /* AppDelegate.swift in Sources */,
 				247F781D29248D1900839C2D /* SceneDelegate.swift in Sources */,
+				247F784B2924918500839C2D /* PokemonApiClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
